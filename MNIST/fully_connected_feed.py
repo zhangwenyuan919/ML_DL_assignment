@@ -13,6 +13,11 @@
 # limitations under the License.
 # ==============================================================================
 
+
+"""
+这个代码是全连接网络，不是深度卷积网络
+"""
+
 """Trains and Evaluates the MNIST network using a feed dictionary."""
 from __future__ import absolute_import
 from __future__ import division
